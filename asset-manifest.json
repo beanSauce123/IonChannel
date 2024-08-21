@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IonChannel/static/css/main.e6c13ad2.css",
+    "main.js": "/IonChannel/static/js/main.11323edf.js",
+    "static/js/453.00a0685e.chunk.js": "/IonChannel/static/js/453.00a0685e.chunk.js",
+    "index.html": "/IonChannel/index.html",
+    "main.e6c13ad2.css.map": "/IonChannel/static/css/main.e6c13ad2.css.map",
+    "main.11323edf.js.map": "/IonChannel/static/js/main.11323edf.js.map",
+    "453.00a0685e.chunk.js.map": "/IonChannel/static/js/453.00a0685e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.11323edf.js"
+  ]
+}
